@@ -11,6 +11,7 @@ I am happy to present you on this page my progress in software testing and IT ge
 - Software Testing
 - Creating test cases
 - Reporting bugs
+- Front end development 
 
 ## Tools
 
