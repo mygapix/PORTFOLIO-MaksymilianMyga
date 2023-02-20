@@ -5,4 +5,18 @@ Hi! My name is Maksymilian Myga. I am master of architecture by education. Howev
 
 I am happy to present you on this page my progress in software testing and IT general.
 
+## Tech skills:
 
+- SQL
+- Software Testing
+- Creating test cases
+- Reporting bugs
+
+## Tools
+
+- Github
+- HTML/CSS
+- JavaScript - essentials
+- React - basic
+- Postman - testing tool for REST API - basic
+- MySQL - relational database management system - basic
