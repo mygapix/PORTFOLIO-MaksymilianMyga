@@ -5,6 +5,7 @@ Hi! My name is Maksymilian Myga. I am master of architecture by education. Howev
 
 I am happy to present you on this page my progress in software testing and IT general.
 You can find me also on [LINKEDIN](https://www.linkedin.com/in/maksymilian-myga-249992119/)
+
 ---
 
 ## 👓Tech skills:
