@@ -28,7 +28,7 @@ I am happy to present you on this page my progress in software testing and IT ge
 
 - Na Frontendzie - kurs podstawy w React
 - Udemy - Podstawy manualnego testowania oprogramowania
-- DareIT Challenge - Zostań Testerem Manualnym 
+- DareIT Challenge - Zostań Testerem Manualnym https://github.com/mygapix/challenge_portfolio_Maks
 
 ## 🛠My Projects
 
