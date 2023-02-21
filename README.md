@@ -7,7 +7,7 @@ I am happy to present you on this page my progress in software testing and IT ge
 
 ---
 
-## Tech skills:
+## 🧰 Tech skills:
 
 - SQL
 - Software Testing
