@@ -40,7 +40,7 @@ I am happy to present you on this page my progress in software testing and IT ge
   
 - Bug Reports
 
-  https://docs.google.com/spreadsheets/d/1d8RlShl127sm7Mx8vZRKW1L9hg9tUI4x/edit?usp=share_link&ouid=109741062900965762182&rtpof=true&sd=true
+  [Football Scout Webpage - bug report](https://docs.google.com/spreadsheets/d/1d8RlShl127sm7Mx8vZRKW1L9hg9tUI4x/edit?usp=share_link&ouid=109741062900965762182&rtpof=true&sd=true)
   
 - Reports
 
