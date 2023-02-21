@@ -7,7 +7,7 @@ I am happy to present you on this page my progress in software testing and IT ge
 
 ---
 
-## 🧰 Tech skills:
+## 👓Tech skills:
 
 - SQL
 - Software Testing
@@ -15,7 +15,7 @@ I am happy to present you on this page my progress in software testing and IT ge
 - Reporting bugs
 - Front end development 
 
-## Tools
+## 🧰 Tools
 
 - Github
 - HTML/CSS
@@ -24,7 +24,7 @@ I am happy to present you on this page my progress in software testing and IT ge
 - Postman - testing tool for REST API - basic
 - MySQL - relational database management system - basic
 
-## Courses
+## 🎓Courses
 
 - Na Frontendzie - kurs podstawy w React
 - Udemy - Podstawy manualnego testowania oprogramowania
