@@ -21,3 +21,12 @@ I am happy to present you on this page my progress in software testing and IT ge
 - React - basic
 - Postman - testing tool for REST API - basic
 - MySQL - relational database management system - basic
+
+## Courses
+
+- Na Frontendzie - kurs podstawy w React
+- Udemy - Podstawy manualnego testowania oprogramowania
+- DareIT Challenge - Zostań Testerem Manualnym 
+
+## My Projects
+
