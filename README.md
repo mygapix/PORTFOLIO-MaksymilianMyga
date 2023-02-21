@@ -21,18 +21,20 @@ You can also find me on [LINKEDIN](https://www.linkedin.com/in/maksymilian-myga-
 
 - Github
 - HTML/CSS
-- JavaScript - essentials
-- React - basic
-- Postman - testing tool for REST API - basic
-- MySQL - relational database management system - basic
+- JavaScript 
+- React 
+- Postman - testing tool for REST API 
+- MySQL - relational database management system 
+- Atom - code editor
+- 
 
-## 🎓Courses
+## 🎓 Courses
 
-- Na Frontendzie - kurs podstawy w React
+- Na Frontendzie - React Essentials
 - Udemy - Podstawy manualnego testowania oprogramowania
 - DareIT Challenge - Zostań Testerem Manualnym https://github.com/mygapix/challenge_portfolio_Maks
 
-## 🛠My Projects
+## 🛠 My Projects
 
 - TEST CASES
 
